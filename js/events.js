@@ -14,3 +14,9 @@ function frameIt(){
   })
 }
 
+function pressIt(){
+  $(document).on('keydown', function(key){
+    if(kay.which == )
+  })
+}
+
