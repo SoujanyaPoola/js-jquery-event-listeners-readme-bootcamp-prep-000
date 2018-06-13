@@ -16,7 +16,9 @@ function frameIt(){
 
 function pressIt(){
   $(document).on('keydown', function(key){
-    if(kay.which == )
+    if(key.which == 71){
+      alert('u entered G');
+    }
   })
 }
 
