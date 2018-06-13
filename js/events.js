@@ -10,7 +10,9 @@ $('p').on("click", function(){
 
 function frameIt(){
   $('img').on("load", function(){
-    if()
+    if($('img') === $('tasty')){
+      
+    }
   })
 }
 
