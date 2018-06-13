@@ -24,10 +24,10 @@ function pressIt(){
 
 function submitIt(){
   $("form").on("submit", function(){
-    if($("input").val()){
+   
       alert('Your form is going to be submitted now.');
    
-    }
+    
   })
 }
 
